@@ -1,3 +1,86 @@
 {
-  
+  "categories": [
+    {
+      "_id": 1,
+      "name": "manga",
+      "displayName": "Manga",
+      "description": "Japanese comics"
+    },
+    {
+      "_id": 2,
+      "name": "webcomics",
+      "displayName": "Webcomics",
+      "description": "Comics published on the internet"
+    },
+    {
+      "_id": 3,
+      "name": "manhua",
+      "displayName": "Manhua",
+      "description": "Korean comics"
+    },
+    {
+      "_id": 4,
+      "name": "graphic-novel",
+      "displayName": "Graphic Novel",
+      "description": "Comics typically printed in color"
+    }
+  ],
+  "products": [
+    {
+      "_id": 1,
+      "category": 3,
+      "name": "towerOfGod",
+      "displayName": "Tower of God",
+      "description": "Some dude climbs a tower"
+    },
+    {
+      "_id": 2,
+      "category": 2,
+      "name": "unordinary",
+      "displayName": "UnOrdinary",
+      "description": "Highschoolers fight each other with superpowers"
+    },
+    {
+      "_id": 3,
+      "category": 2,
+      "name": "projectShade",
+      "displayName": "Project Shade",
+      "description": "It's not about throwing shade"
+    },
+    {
+      "_id": 4,
+      "category": 3,
+      "name": "distantSky",
+      "displayName": "Distant Sky",
+      "description": "A giant sinkhole opens up in a city"
+    },
+    {
+      "_id": 5,
+      "category": 1,
+      "name": "letterBee",
+      "displayName": "Letter Bee",
+      "description": "Displays nice use of darks and screentones"
+    },
+    {
+      "_id": 6,
+      "category": 1,
+      "name": "claymore",
+      "displayName": "Claymore",
+      "description": "A hack and slash type of story"
+    },
+    {
+      "_id": 7,
+      "category": 4,
+      "name": "wetMoon",
+      "displayName": "Wet Moon",
+      "description": "A slice of life in a small town"
+    },
+    {
+      "_id": 8,
+      "category": 4,
+      "name": "tanpopo",
+      "displayName": "Tanpopo",
+      "description": "Some girl makes a deal with the devil"
+    }
+  ]
 }
