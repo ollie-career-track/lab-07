@@ -23,6 +23,18 @@
       "name": "graphic-novel",
       "displayName": "Graphic Novel",
       "description": "Comics typically printed in color"
+    },
+    {
+      "_id": 5,
+      "name": "anime",
+      "displayName": "Anime",
+      "description": "Japanese animation"
+    },
+    {
+      "_id": 6,
+      "name": "zine",
+      "displayName": "Zine",
+      "description": "Independetly published works"
     }
   ],
   "products": [
@@ -81,6 +93,34 @@
       "name": "tanpopo",
       "displayName": "Tanpopo",
       "description": "Some girl makes a deal with the devil"
+    },
+    {
+      "_id": 9,
+      "category": 1,
+      "name": "bleach",
+      "displayName": "Bleach",
+      "description": "Previous one of the Big 3 manga"
+    },
+    {
+      "_id": 10,
+      "category": 1,
+      "name": "housekiNoKuni",
+      "displayName": "Houseki no Kuni",
+      "description": "What Steven Universe could have been"
+    },
+    {
+      "_id": 11,
+      "category": 5,
+      "name": "madeInAbyss",
+      "displayName": "Made in Abyss",
+      "description": "Great worldbuilding"
+    },
+    {
+      "_id": 12,
+      "category": 5,
+      "name": "haibaneRenmei",
+      "displayName": "Haibane Renmei",
+      "description": "I still think about this anime"
     }
   ]
 }
