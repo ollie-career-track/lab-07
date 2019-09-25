@@ -99,7 +99,7 @@
       "category": 1,
       "name": "bleach",
       "displayName": "Bleach",
-      "description": "Previous one of the Big 3 manga"
+      "description": "Previously belonged to the Big 3 of manga"
     },
     {
       "_id": 10,
@@ -121,6 +121,13 @@
       "name": "haibaneRenmei",
       "displayName": "Haibane Renmei",
       "description": "I still think about this anime"
+    },
+    {
+      "_id": 13,
+      "category": 1,
+      "name": "saturnApartments",
+      "displayName": "Saturn Apartments",
+      "description": "Science fiction Slice of life"
     }
   ]
 }
